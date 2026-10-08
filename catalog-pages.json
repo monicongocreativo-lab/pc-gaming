@@ -1,0 +1,1160 @@
+{
+  "purpose": "Pré-visualização do desenho; confirmar preços e stock na Eurosys.",
+  "families": {
+    "ASTON": {
+      "products": [
+        {
+          "name": "Computer Gaming - ASTON-56U7V1",
+          "url": "https://eurosys.pt/produto/ASTON-56U7V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-56U7V1-1080.png",
+          "description": "RTX 5060 TI 16GB | ULTRA 7 270K | 2 x RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 10000/7900 PCIE5",
+          "price": "2299,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - ASTON-57R7V1",
+          "url": "https://eurosys.pt/produto/ASTON-57R7V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-57R7V1-1080.png",
+          "description": "RTX 5070 TI 16GB | RYZEN7 7800X3D | RAM 16GB DDR5 6400 CL32 | SSD NVME 1TB 10000/7900 PCIE5",
+          "price": "2359,00 €",
+          "vat": true,
+          "stock": "Últimas 3 unidades"
+        },
+        {
+          "name": "Computer Gaming - ASTON-97R7V5",
+          "url": "https://eurosys.pt/produto/ASTON-97R7V5",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-97R7V5-1080.png",
+          "description": "RX 9070XT 16GB | RYZEN7 9800X3D | RAM 32GB DDR5 6000 CL30 | SSD NVME 1TB 10000/7900 PCIE5",
+          "price": "2369,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - ASTON-97R7V1",
+          "url": "https://eurosys.pt/produto/ASTON-97R7V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-97R7V1-1080.png",
+          "description": "RX 9070XT 16GB | RYZEN7 9800X3D | 2 x RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 10000/7900 PCIE5",
+          "price": "2409,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - ASTON-97R7V3",
+          "url": "https://eurosys.pt/produto/Aston-97R7V3",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-97R7V3-1080.png",
+          "description": "RX 9070XT 16GB | RYZEN7 9800X3D | 2 x RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 10000/7900 PCIE5",
+          "price": "2429,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - ASTON-57R7V14A",
+          "url": "https://eurosys.pt/produto/ASTON-57R7V14A",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-57R7V14A-1080.png",
+          "description": "RTX 5070 12GB | RYZEN7 9800X3D | 2 x RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 7400/6500 PCIE4",
+          "price": "2439,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - ASTON-57U7V1",
+          "url": "https://eurosys.pt/produto/ASTON-57U7V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-57U7V1-1080.png",
+          "description": "RTX 5070 TI 16GB | ULTRA 7 270K | RAM 16GB DDR5 6400 CL30 | SSD NVME 1TB 7400/6500 PCIE4",
+          "price": "2489,00 €",
+          "vat": true,
+          "stock": "Últimas 3 unidades"
+        },
+        {
+          "name": "Computer Gaming - ASTON-57R7V16",
+          "url": "https://eurosys.pt/produto/ASTON-57R7V16",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-57R7V16-1080.png",
+          "description": "RTX 5070 TI 16GB | RYZEN7 9800X3D | RAM 16GB DDR5 6400 CL32 | SSD NVME 1TB 10000/7900 PCIE5",
+          "price": "2549,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - ASTON-57R7V2",
+          "url": "https://eurosys.pt/produto/ASTON-57R7V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-57R7V2-1080.png",
+          "description": "RTX 5070 TI 16GB | RYZEN7 9800X3D | RAM 16GB DDR5 6400 CL30 | SSD NVME 1TB 5000/4200 PCIE4",
+          "price": "2559,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - ASTON-57i9V1",
+          "url": "https://eurosys.pt/produto/ASTON-57i9V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-57I9V1-1080.png",
+          "description": "RTX 5070 TI 16GB | I9 14900KF | RAM 16GB DDR5 6400 CL30 | SSD NVME 1TB 6000/4000 PCIE4",
+          "price": "2559,00 €",
+          "vat": true,
+          "stock": "Últimas 3 unidades"
+        },
+        {
+          "name": "Computer Gaming - ASTON-57U5V1",
+          "url": "https://eurosys.pt/produto/ASTON-57U5V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/actualiza%C3%A7%C3%A3o.png",
+          "description": "RTX 5070 TI 16GB | ULTRA 5 250KF | 2 x RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB",
+          "price": "2599,00 €",
+          "vat": true,
+          "stock": "Últimas 3 unidades"
+        },
+        {
+          "name": "Computer Gaming - ASTON-57I7V8A",
+          "url": "https://eurosys.pt/produto/ASTON-57I7V8A",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-57I7V8A-1080.png",
+          "description": "RTX 5070 TI 16GB | I7 14700KF | 2 x RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 7400/6500 PCIE4",
+          "price": "2669,00 €",
+          "vat": true,
+          "stock": "Últimas 3 unidades"
+        },
+        {
+          "name": "Computer Gaming - ASTON-80i7V3",
+          "url": "https://eurosys.pt/produto/Aston-80i7V3",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-80I7V3-1080.png",
+          "description": "RTX 5080 16GB | I7 14700KF | 2 x RAM 16GB DDR4 3200 CL16 | SSD NVME 1TB 7400/6500 PCIE4",
+          "price": "2974,00 €",
+          "vat": true,
+          "stock": "Últimas 1 unidade"
+        },
+        {
+          "name": "Computer Gaming - ASTON-58R7V6",
+          "url": "https://eurosys.pt/produto/ASTON-58R7V6",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-58R7V6-1080.png",
+          "description": "RTX 5080 16GB | RYZEN7 8700F | RAM 32GB DDR5 7200 CL34 | SSD NVME 1TB",
+          "price": "3004,00 €",
+          "vat": true,
+          "stock": "Últimas 1 unidade"
+        },
+        {
+          "name": "Computer Gaming - ASTON-58U5V1",
+          "url": "https://eurosys.pt/produto/ASTON-58U5V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/actualiza%C3%A7%C3%A3o.png",
+          "description": "RTX 5080 16GB | ULTRA 5 250KF | RAM 32GB DDR5 7200 CL34 | SSD NVME 1TB 10000/7900 PCIE5",
+          "price": "3154,00 €",
+          "vat": true,
+          "stock": "Últimas 1 unidade"
+        },
+        {
+          "name": "Computer Gaming - ASTON-80R9V1",
+          "url": "https://eurosys.pt/produto/ASTON-80R9V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-80R9V1-1080.png",
+          "description": "RTX 5080 16GB | RYZEN9 9900X | RAM 32GB DDR5 6000 CL30 | SSD NVME 1TB 10000/7900 PCIE5",
+          "price": "3204,00 €",
+          "vat": true,
+          "stock": "Últimas 1 unidade"
+        },
+        {
+          "name": "Computer Gaming - ASTON-80R7V2",
+          "url": "https://eurosys.pt/produto/ASTON-80R7V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-80R7V2-1080.png",
+          "description": "RTX 5080 16GB | RYZEN7 7800X3D | RAM 32GB DDR5 7200 CL34 | SSD NVME 1TB 10000/7900 PCIE5",
+          "price": "3214,00 €",
+          "vat": true,
+          "stock": "Últimas 1 unidade"
+        },
+        {
+          "name": "Computer Gaming - ASTON-58U7V1",
+          "url": "https://eurosys.pt/produto/ASTON-58U7V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-58U7V1-1080.png",
+          "description": "RTX 5080 16GB | ULTRA 7 270K | RAM 32GB DDR5 7200 CL34 | SSD NVME 1TB 10000/7900 PCIE5",
+          "price": "3264,00 €",
+          "vat": true,
+          "stock": "Últimas 1 unidade"
+        },
+        {
+          "name": "Computer Gaming - ASTON-58U7V2",
+          "url": "https://eurosys.pt/produto/ASTON-58U7V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-58U7V2-1080.png",
+          "description": "RTX 5080 16GB | ULTRA 7 270K | RAM 32GB DDR5 7200 CL34 | SSD NVME 1TB 10000/7900 PCIE5",
+          "price": "3264,00 €",
+          "vat": true,
+          "stock": "Últimas 1 unidade"
+        },
+        {
+          "name": "Computer Gaming - ASTON-80R7V6",
+          "url": "https://eurosys.pt/produto/ASTON-80R7V6",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-80R7V6-1080.png",
+          "description": "RTX 5080 16GB | RYZEN7 9800X3D | RAM 32GB DDR5 7200 CL34 | SSD NVME 1TB 10000/7900 PCIE5",
+          "price": "3334,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - ASTON-80R7V5",
+          "url": "https://eurosys.pt/produto/ASTON-80R7V5",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-80R7V5-1080.png",
+          "description": "RTX 5080 16GB | RYZEN7 9800X3D | RAM 32GB DDR5 7200 CL34 | SSD NVME 1TB 10000/7900 PCIE5",
+          "price": "3374,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - ASTON-80i9V2",
+          "url": "https://eurosys.pt/produto/Aston-80i9V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-80I9V2-1080.png",
+          "description": "RTX 5080 16GB | I9-14900K | RAM 32GB DDR5 7200 CL34 | SSD NVME 1TB 10000/7900 PCIE5",
+          "price": "3489,00 €",
+          "vat": true,
+          "stock": "Últimas 1 unidade"
+        },
+        {
+          "name": "Computer Gaming - ASTON-59R7V2",
+          "url": "https://eurosys.pt/produto/ASTON-59R7V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-59R7V2-1080.png",
+          "description": "RTX 5090 32GB | RYZEN7 9800X3D | RAM 32GB DDR5 6000 CL30 | SSD NVME 1TB 7400/6500 PCIE4",
+          "price": "6764,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - ASTON-59U9V2",
+          "url": "https://eurosys.pt/produto/ASTON-59U9V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-59U9V2-1080.png",
+          "description": "RTX 5090 32GB | ULTRA9 285K | 2 x RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 7400/6500 PCIE4",
+          "price": "6824,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - ASTON-59U9V1",
+          "url": "https://eurosys.pt/produto/ASTON-59U9V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-59U9V1-1080.png",
+          "description": "RTX 5090 32GB | ULTRA9 285K | 2 x RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 10000/7900 PCIE5",
+          "price": "6834,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - ASTON-59R7V3",
+          "url": "https://eurosys.pt/produto/ASTON-59R7V3",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-59R7V3-1080.png",
+          "description": "RTX 5090 32GB | RYZEN7 9800X3D | RAM 32GB DDR5 6000 CL38 | SSD NVME 2TB 6000/5000 PCIE4",
+          "price": "6944,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - ASTON-59U9V4",
+          "url": "https://eurosys.pt/produto/ASTON-59U9V4",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/actualiza%C3%A7%C3%A3o.png",
+          "description": "RTX 5090 32GB | ULTRA9 285K | RAM 32GB DDR5 6000 CL38 | SSD NVME 1TB 10000/7900 PCIE5",
+          "price": "6954,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - ASTON-59i9V1",
+          "url": "https://eurosys.pt/produto/ASTON-59i9V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-59I9V1-1080.png",
+          "description": "RTX 5090 32GB | I9 14900KF | RAM 32GB DDR5 6000 CL38 | SSD NVME 2TB 6000/5000 PCIE4",
+          "price": "6964,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - ASTON-59U9V3",
+          "url": "https://eurosys.pt/produto/ASTON-59U9V3",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-59U9V3-1080.png",
+          "description": "RTX 5090 32GB | ULTRA9 285K | RAM 32GB DDR5 6000 CL38 | SSD NVME 2TB 6000/5000 PCIE4",
+          "price": "7054,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - ASTON-59R9V1",
+          "url": "https://eurosys.pt/produto/ASTON-59R9V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/ASTON-59R9V1-1080.png",
+          "description": "RTX 5090 32GB | RYZEN9 9950X3D | RAM 32GB DDR5 6000 CL30 | SSD NVME 1TB 10000/7900 PCIE5",
+          "price": "7289,00 €",
+          "vat": true,
+          "stock": "Últimas 1 unidade"
+        }
+      ],
+      "updatedAt": "2026-10-08T18:59:38.942Z",
+      "source": "https://eurosys.pt/catalogo?categoria=computers&brand=ASTON&skip_filter=brand",
+      "pages": 2
+    },
+    "HYDRA": {
+      "products": [
+        {
+          "name": "Computer Gaming - HYDRA-55U5V1",
+          "url": "https://eurosys.pt/produto/HYDRA-55U5V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-55U5V1-1080.png",
+          "description": "RTX 5050 8GB OC | ULTRA 5 230F | RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 3200/2000 PCIE3",
+          "price": "1119,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-55R7V2",
+          "url": "https://eurosys.pt/produto/HYDRA-55R7V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-55R7V2-1080.png",
+          "description": "RTX 5050 8GB | RYZEN7 8700F | RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 2500/1800 PCIE4",
+          "price": "1199,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56I7V1",
+          "url": "https://eurosys.pt/produto/HYDRA-56I7V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-56I7V1-1080.png",
+          "description": "RTX 5060 8GB | I7-12700K | 2 x RAM 8GB DDR4 3200 CL22 | SSD NVME 1TB 2500/1800 PCIE4",
+          "price": "1289,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56R7V13",
+          "url": "https://eurosys.pt/produto/HYDRA-56R7V13",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-56R7V13-1080.png",
+          "description": "RTX 5060 8GB | RYZEN5 9600X | RAM 16GB DDR5 6000 CL38 | SSD NVME 512GB 3400/2400 PCIE3",
+          "price": "1289,00 €",
+          "vat": true,
+          "stock": "Últimas 3 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56R7V9A",
+          "url": "https://eurosys.pt/produto/HYDRA-56R7V9A",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-56R7V9A-1080.png",
+          "description": "RTX 5060 TI 8GB | RYZEN7 5700X | 2 x RAM 16GB DDR4 3200 CL22 | SSD M.2 1TB 5200/4800 PCIE",
+          "price": "1359,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-96R7V3",
+          "url": "https://eurosys.pt/produto/HYDRA-96R7V3 ",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/actualiza%C3%A7%C3%A3o.png",
+          "description": "RX 9060XT 16GB | RYZEN7 5800X  | RAM 16GB DDR4 3600 CL18 | SSD NVME 1TB 2500/1800 PCIE4",
+          "price": "1379,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56R7V17",
+          "url": "https://eurosys.pt/produto/HYDRA-56R7V17",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/actualiza%C3%A7%C3%A3o.png",
+          "description": "RTX 5060 TI 16GB | RYZEN7 5700X | RAM 16GB DDR4 3200 CL22 | SSD M.2 500GB 5000/3000 PCIE4",
+          "price": "1389,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56U5V3",
+          "url": "https://eurosys.pt/produto/HYDRA-56U5V3",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-56U5V3-1080.png",
+          "description": "RTX 5060 TI 8GB | ULTRA 5 230F | RAM 16GB DDR5 6400 CL30 | SSD NVME 1TB 2500/1800 PCIE4",
+          "price": "1419,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56U5V5",
+          "url": "https://eurosys.pt/produto/HYDRA-56U5V5",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-56U5V5-1080.png",
+          "description": "RTX 5060 TI 8GB | ULTRA 5 250KF | RAM 16GB DDR5 6400 CL30 | SSD NVME 1TB 5000/4200 PCIE4",
+          "price": "1419,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56R7V12A",
+          "url": "https://eurosys.pt/produto/HYDRA-56R7V12A",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-56R7V12A-1080.png",
+          "description": "RTX 5060 8GB | RYZEN7 8700F | 2 x RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 2500/1800 PCIE4",
+          "price": "1439,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56R7V2",
+          "url": "https://eurosys.pt/produto/HYDRA-56R7V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-56R7V2-1080.png",
+          "description": "RTX 5060 8GB | RYZEN7 7800X3D | RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 2500/1800 PCIE4",
+          "price": "1449,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56R7V5A",
+          "url": "https://eurosys.pt/produto/HYDRA-56R7V5A",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-56R7V5A-1080.png",
+          "description": "RTX 5060 8GB | RYZEN7 8700F | 2 x RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 2500/1800 PCIE4",
+          "price": "1459,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56U5V4",
+          "url": "https://eurosys.pt/produto/HYDRA-56U5V4",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-56U5V4-1080.png",
+          "description": "RTX 5060 TI 8GB | ULTRA 5 230F | RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 5000/4200 PCIE4",
+          "price": "1459,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56I7V3A",
+          "url": "https://eurosys.pt/produto/HYDRA-56I7V3A",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-56I7V3A-1080.png",
+          "description": "RTX 5060 8GB | I7 14700KF | RAM 16GB DDR5 6000 CL38 | SSD NVME 512GB 3400/2400 PCIE3",
+          "price": "1479,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56I7V2",
+          "url": "https://eurosys.pt/produto/Hydra-56i7V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-56I7V2-1080.png",
+          "description": "RTX 5060 8GB | I7 14700KF | 2 x RAM 8GB DDR4 3600 CL18 | SSD NVME 1TB 2500/1800 PCIE4",
+          "price": "1499,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56R5V1",
+          "url": "https://eurosys.pt/produto/HYDRA-56R5V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-56R5V1P-1080.png",
+          "description": "RTX 5060 TI 8GB | RYZEN5 8400F | RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 5000/4200 PCIE4",
+          "price": "1499,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56R5V10",
+          "url": "https://eurosys.pt/produto/HYDRA-56R5V10",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/actualiza%C3%A7%C3%A3o.png",
+          "description": "RTX 5060 TI 16GB | RYZEN5 9600X | RAM 16GB DDR5 6000 CL38 | SSD M.2 500GB 5000/3000 PCIE4",
+          "price": "1529,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56I5V2",
+          "url": "https://eurosys.pt/produto/HYDRA-56i5V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-56I5V2-1080.png",
+          "description": "RTX 5060 TI 8GB | I5 14600KF | RAM 32GB DDR5 6000 CL30 | SSD NVME 1TB 5000/4200 PCIE4",
+          "price": "1644,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-97R7V6",
+          "url": "https://eurosys.pt/produto/HYDRA-97R7V6",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-97R7V6-1080.png",
+          "description": "RX 9070 16GB | RYZEN7 9700X | RAM 16GB DDR5 6400 CL32 | SSD M.2 1TB 5200/4800 PCIE",
+          "price": "1664,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-97U5V1",
+          "url": "https://eurosys.pt/produto/HYDRA-97U5V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-97U5V1-1080.png",
+          "description": "RX 9070 16GB | ULTRA5 245KF | RAM 16GB DDR5 6000 CL38 | SSD M.2 1TB 5200/4800 PCIE",
+          "price": "1684,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56I7V4A",
+          "url": "https://eurosys.pt/produto/HYDRA-56I7V4A",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-56I7V4A-1080.png",
+          "description": "RTX 5060 TI 8GB | I7-12700K | 2 x RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 2500/1800 PCIE4",
+          "price": "1694,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-97R7V5",
+          "url": "https://eurosys.pt/produto/HYDRA-97R7V5",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-97R7V5-1080.png",
+          "description": "RX 9070 16GB | RYZEN7 5800X3D | RAM 16GB DDR4 3200 CL16 | SSD M.2 500GB 5000/3700 PCIE",
+          "price": "1704,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57R7V10A",
+          "url": "https://eurosys.pt/produto/HYDRA-57R7V10A",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57R7V10A-1080.png",
+          "description": "RTX 5070 12GB | RYZEN7 5700X | 2 x RAM 16GB DDR4 3200 CL22 | SSD M.2 1TB 5200/4800 PCIE",
+          "price": "1784,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57R7V7",
+          "url": "https://eurosys.pt/produto/HYDRA-57R7V7",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57R7V7-1080.png",
+          "description": "RTX 5070 12GB | RYZEN7 8700F | RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB",
+          "price": "1794,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56R7V4",
+          "url": "https://eurosys.pt/produto/HYDRA-56R7V4",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-56R7V4-1080.png",
+          "description": "RTX 5060 TI 16GB | RYZEN7 7800X3D | RAM 16GB DDR5 6400 CL32 | SSD NVME 1TB",
+          "price": "1824,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57I5V1",
+          "url": "https://eurosys.pt/produto/HYDRA-57I5V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57I5V1-1080.png",
+          "description": "RTX 5070 12GB | I5 14400F | 2 x RAM 16GB DDR4 3200 CL22 | SSD NVME 1TB",
+          "price": "1834,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-97R5V1",
+          "url": "https://eurosys.pt/produto/HYDRA-97R5V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-97R5V1-1080.png",
+          "description": "RX 9070XT 16GB | RYZEN5 9600X | RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 2500/1800 PCIE4",
+          "price": "1844,00 €",
+          "vat": true,
+          "stock": "Últimas 3 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57I7V7",
+          "url": "https://eurosys.pt/produto/HYDRA-57I7V7",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57I7V7-1080.png",
+          "description": "RTX 5070 12GB | I7-12700K | RAM 16GB DDR4 3200 CL16 | SSD NVME 1TB 2500/1800 PCIE4",
+          "price": "1864,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56R7V16A",
+          "url": "https://eurosys.pt/produto/HYDRA-56R7V16A",
+          "image": null,
+          "description": "RTX 5060 TI 16GB | RYZEN7 5700X | RAM 32GB DDR5 7200 CL34 | SSD NVME 1TB 6000/4000 PCIE4",
+          "price": "1884,00 €",
+          "vat": true,
+          "stock": "Últimas 1 unidade"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56R5V8A",
+          "url": "https://eurosys.pt/produto/HYDRA-56R5V8A",
+          "image": "https://iapc.pt/webp/1920/compounds/b9975a8d-493e-4e75-b256-9e8f64377523.png",
+          "description": "RTX 5060 TI 16GB | RYZEN7 7600 | 2 x RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 6000/4000 PCIE4",
+          "price": "1884,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57I7V5",
+          "url": "https://eurosys.pt/produto/HYDRA-57I7V5",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57I7V5-1080.png",
+          "description": "RTX 5070 12GB | I7 14700KF | RAM 16GB DDR4 3200 CL22 | SSD NVME 1TB 6000/4000 PCIE4",
+          "price": "1894,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56R5V9A",
+          "url": "https://eurosys.pt/produto/HYDRA-56R5V9A",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-56R5V9A-1080.png",
+          "description": "RTX 5060 TI 8GB | RYZEN5 8400F | 2 x RAM 16GB DDR5 6000 CL38 | SSD M.2 2TB 6000/4000 PCIE",
+          "price": "1904,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57R7V9",
+          "url": "https://eurosys.pt/produto/HYDRA-57R7V9",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57R7V9-1080.png",
+          "description": "RTX 5070 12GB | RYZEN7 9700X | RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB",
+          "price": "1904,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-97R7V4",
+          "url": "https://eurosys.pt/produto/HYDRA-97R7V4",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-97R7V4-1080.png",
+          "description": "RX 9070XT 16GB | RYZEN7 8700F | 2 x RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 2500/1800 PCIE4",
+          "price": "1904,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57R7V8",
+          "url": "https://eurosys.pt/produto/HYDRA-57R7V8",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57R7V8-1080.png",
+          "description": "RTX 5070 12GB | RYZEN7 7700 | RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 2500/1800 PCIE4",
+          "price": "1934,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-97U7V1",
+          "url": "https://eurosys.pt/produto/HYDRA-97U7V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-97U7V1-1080.png",
+          "description": "RX 9070 16GB | ULTRA 7 270K | RAM 16GB DDR5 6000 CL38 | SSD M.2 1TB 5200/4800 PCIE",
+          "price": "1954,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-97R7V7",
+          "url": "https://eurosys.pt/produto/HYDRA-97R7V7",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-97R7V7-1080.png",
+          "description": "RX 9070 16GB | RYZEN7 9800X3D | RAM 16GB DDR5 6400 CL32 | SSD M.2 1TB 5200/4800 PCIE",
+          "price": "1964,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57R5V1",
+          "url": "https://eurosys.pt/produto/HYDRA-57R5V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57R5V1-1080.png",
+          "description": "RTX 5070 12GB | RYZEN5 9600X | RAM 16GB DDR5 6000 CL38 | SSD M.2 1TB 5200/4800 PCIE",
+          "price": "2004,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-97R7V2",
+          "url": "https://eurosys.pt/produto/HYDRA-97R7V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-97R7V2-1080.png",
+          "description": "RX 9070XT 16GB | RYZEN7 7800X3D | RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 10000/7900 PCIE5",
+          "price": "2004,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57I7V6",
+          "url": "https://eurosys.pt/produto/HYDRA-57I7V6",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57I7V6-1080.png",
+          "description": "RTX 5070 12GB | I7 14700KF | RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 6000/4000 PCIE4",
+          "price": "2054,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57R5V2A",
+          "url": "https://eurosys.pt/produto/HYDRA-57R5V2A",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57R5V2A-1080.png",
+          "description": "RTX 5070 12GB | RYZEN7 7600 | 2 x RAM 16GB DDR5 6000 CL38 | SSD M.2 1TB 5200/4800 PCIE",
+          "price": "2084,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-56R7V14",
+          "url": "https://eurosys.pt/produto/HYDRA-56R7V14",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-56R7V14-1080.png",
+          "description": "RTX 5060 TI 16GB | RYZEN7 9800X3D | RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 6000/4000 PCIE4",
+          "price": "2084,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57R7V17",
+          "url": "https://eurosys.pt/produto/HYDRA-57R7V17",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57R7V17-1080.png",
+          "description": "RTX 5070 TI 16GB | RYZEN7 8700F | RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 2500/1800 PCIE4",
+          "price": "2114,00 €",
+          "vat": true,
+          "stock": "Últimas 3 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57R7V6",
+          "url": "https://eurosys.pt/produto/HYDRA-57R7V6",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57R7V6-1080.png",
+          "description": "RTX 5070 12GB | RYZEN7 7700 | 2 x RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 6000/4000 PCIE4",
+          "price": "2114,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57U7V2",
+          "url": "https://eurosys.pt/produto/HYDRA-57U7V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57U7V2-1080.png",
+          "description": "RTX 5070 12GB | ULTRA 7 270K | RAM 16GB DDR5 6000 CL38 | SSD NVME 1TB 7400/6500 PCIE4",
+          "price": "2114,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57R7V13A",
+          "url": "https://eurosys.pt/produto/HYDRA-57R7V13A",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57R7V13A-1080.png",
+          "description": "RTX 5070 12GB | RYZEN7 9700X | 2 x RAM 16GB DDR5 6000 CL38 | SSD M.2 1TB 5200/4800 PCIE",
+          "price": "2229,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57I5V1-BF",
+          "url": "https://eurosys.pt/produto/HYDRA-57I5V1-BF",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57I5V1-BF-1080.png",
+          "description": "RTX 5070 TI 16GB | I5 14600KF | RAM 16GB DDR5 6400 CL30 | SSD NVME 1TB 7400/6500 PCIE4",
+          "price": "2239,00 €",
+          "vat": true,
+          "stock": "Últimas 3 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57R5V3A",
+          "url": "https://eurosys.pt/produto/HYDRA-57R5V3A",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57R5V3A-1080.png",
+          "description": "RTX 5070 TI 16GB | RYZEN5 9600X | RAM 16GB DDR5 6400 CL32 | SSD M.2 1TB 5200/4800 PCIE",
+          "price": "2289,00 €",
+          "vat": true,
+          "stock": "Últimas 3 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57U7V1",
+          "url": "https://eurosys.pt/produto/HYDRA-57U7V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57U7V1-1080.png",
+          "description": "RTX 5070 12GB | ULTRA 7 270K | 2 x RAM 16GB DDR5 6400 CL30 | SSD NVME 1TB 7400/6500 PCIE4",
+          "price": "2299,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-97I7V1",
+          "url": "https://eurosys.pt/produto/HYDRA-97I7V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-97I7V1-1080.png",
+          "description": "RX 9070XT 16GB | I7 14700KF | RAM 32GB DDR5 6000 CL30 | SSD NVME 1TB 6000/4000 PCIE4",
+          "price": "2309,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57I5V4A",
+          "url": "https://eurosys.pt/produto/HYDRA-57I5V4A",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57I5V4A-1080.png",
+          "description": "RTX 5070 TI 16GB | I5 14600KF | 2 x RAM 16GB DDR4 3200 CL22 | SSD NVME 1TB",
+          "price": "2319,00 €",
+          "vat": true,
+          "stock": "Últimas 3 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57R7V15A",
+          "url": "https://eurosys.pt/produto/HYDRA-57R7V15A",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/HYDRA-57R7V15A-1080.png",
+          "description": "RTX 5070 TI 16GB | RYZEN7 8700F | 2 x RAM 16GB DDR5 6000 CL38 | SSD M.2 1TB 5200/4800 PCIE",
+          "price": "2369,00 €",
+          "vat": true,
+          "stock": "Últimas 3 unidades"
+        },
+        {
+          "name": "Computer Gaming - HYDRA-57U5V1",
+          "url": "https://eurosys.pt/produto/HYDRA-57U5V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/actualiza%C3%A7%C3%A3o.png",
+          "description": "RTX 5070 TI 16GB | ULTRA 5 250KF | RAM 16GB DDR5 6000 CL38 | SSD M.2 1TB 5200/4800 PCIE",
+          "price": "2369,00 €",
+          "vat": true,
+          "stock": "Últimas 3 unidades"
+        }
+      ],
+      "updatedAt": "2026-10-08T18:59:40.045Z",
+      "source": "https://eurosys.pt/catalogo?categoria=computers&brand=HYDRA&skip_filter=brand",
+      "pages": 3
+    },
+    "RAPTOR": {
+      "products": [
+        {
+          "name": "Computer Gaming - RAPTOR-0RR5V1",
+          "url": "https://eurosys.pt/produto/RAPTOR-0RR5V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-0RR5V1-1080.png",
+          "description": "RYZEN5 5500GT | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "494,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-0RR7V2",
+          "url": "https://eurosys.pt/produto/RAPTOR-0RR7V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-0RR7V2-1080.png",
+          "description": "RYZEN7 5750G | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "504,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-0RR5V2",
+          "url": "https://eurosys.pt/produto/RAPTOR-0RR5V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-0RR5V2-1080.png",
+          "description": "RYZEN5 5600GT | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "514,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-IABUILDER-AM4",
+          "url": "https://eurosys.pt/produto/RAPTOR-IABUILDER-AM4",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-IABUILDER-AM4-1080.png",
+          "description": "RTX 3050 6GB | RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "564,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-50R5V1",
+          "url": "https://eurosys.pt/produto/RAPTOR-50R5V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-50R5V1-1080.png",
+          "description": "RTX 3050 6GB | RYZEN5 4500 | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "734,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-50R5V3",
+          "url": "https://eurosys.pt/produto/RAPTOR-50R5V3",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-50R5V3-1080.png",
+          "description": "RTX 3050 6GB | RYZEN5 5500 | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "744,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-IABUILDER-AM5",
+          "url": "https://eurosys.pt/produto/RAPTOR-IABUILDER-AM5",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-IABUILDER-AM5-1080.png",
+          "description": "RTX 3050 6GB | RAM 16GB DDR5 5600 CL40 | SSD SATA 512GB 550/500",
+          "price": "744,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-50R5V4",
+          "url": "https://eurosys.pt/produto/RAPTOR-50R5V4",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-50R5V4-1080.png",
+          "description": "RTX 3050 6GB | RYZEN5 5600 | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "754,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-50I5V5",
+          "url": "https://eurosys.pt/produto/RAPTOR-50I5V5",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-50I5V5-1080.png",
+          "description": "RTX 3050 6GB | I5 12400F | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "794,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-50R5V2",
+          "url": "https://eurosys.pt/produto/RAPTOR-50R5V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-50R5V2-1080.png",
+          "description": "RTX 3050 6GB | RYZEN5 5600X | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "804,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-50R5V6",
+          "url": "https://eurosys.pt/produto/RAPTOR-50R5V6",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-50R5V6-1080.png",
+          "description": "RTX 3050 8GB | RYZEN5 5500 | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "804,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-50R7V2",
+          "url": "https://eurosys.pt/produto/RAPTOR-50R7V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-50R7V2-1080.png",
+          "description": "RTX 3050 6GB | RYZEN7 5700X | 2 x RAM 8GB DDR4 3200 CL22 | SSD M.2 500GB 5000/3700 PCIE",
+          "price": "854,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-76R5V1",
+          "url": "https://eurosys.pt/produto/RAPTOR-76R5V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-76R5V1-1080.png",
+          "description": "RX 7600 8GB | RYZEN5 5500 | RAM 16GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "854,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-50I5V3",
+          "url": "https://eurosys.pt/produto/RAPTOR-50I5V3",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-50I5V3-1080.png",
+          "description": "RTX 3050 6GB | I5 14400F | 2 x RAM 8GB DDR4 3600 CL18 | SSD SATA 512GB 550/500",
+          "price": "864,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-76R5V4",
+          "url": "https://eurosys.pt/produto/RAPTOR-76R5V4",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-76R5V4-1080.png",
+          "description": "RX 7600 8GB | RYZEN5 5600X | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "884,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-55R5V1",
+          "url": "https://eurosys.pt/produto/RAPTOR-55R5V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-55R5V1-1080.png",
+          "description": "RTX 5050 8GB  | RYZEN5 4500 | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "884,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-56R5V7",
+          "url": "https://eurosys.pt/produto/RAPTOR-56R5V7",
+          "image": "https://iapc.pt/webp/1920/compounds/ab897693-33d2-4f00-b140-d53a4a667332.png",
+          "description": "RTX 5060 8GB | RYZEN5 5500 | 2 x RAM 8GB DDR4 3200 CL22 | SSD NVME 512GB 3400/2400 PCIE3",
+          "price": "894,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-55R5V2",
+          "url": "https://eurosys.pt/produto/RAPTOR-55R5V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-55R5V2-1080.png",
+          "description": "RTX 5050 8GB  | RYZEN5 5500 | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "904,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-60R5V11",
+          "url": "https://eurosys.pt/produto/RAPTOR-60R5V11",
+          "image": "https://iapc.pt/webp/1920/compounds/dcf2d8f7-4fd8-465c-9ddd-69f09a1e0821.png",
+          "description": "RTX 5060 8GB | RYZEN5 5500 | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "914,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-55I5V2",
+          "url": "https://eurosys.pt/produto/RAPTOR-55I5V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-55I5V2-1080.png",
+          "description": "RTX 5050 8GB  | I5 12400F | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "934,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-60I5V3",
+          "url": "https://eurosys.pt/produto/Raptor-60i5V3",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-60I5V3-1080.png",
+          "description": "RTX 5060 8GB | I5 12400F | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "964,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-60I5V10",
+          "url": "https://eurosys.pt/produto/Raptor-60i5V10",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-60I5V10-1080.png",
+          "description": "RTX 5060 8GB | I5 12400F | 2 x RAM 8GB DDR4 3200 CL22 | SSD NVME 512GB 3400/2400 PCIE3",
+          "price": "974,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-55R5V8",
+          "url": "https://eurosys.pt/produto/RAPTOR-55R5V8",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-55R5V8-1080.png",
+          "description": "RTX 5050 8GB  | RYZEN5 5600X | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "974,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-56R5V5",
+          "url": "https://eurosys.pt/produto/RAPTOR-56R5V5",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-56R5V5-1080.png",
+          "description": "RTX 5060 8GB | RYZEN5 5600X | 2 x RAM 8GB DDR4 3200 CL22 | SSD NVME 512GB 3400/2400 PCIE3",
+          "price": "984,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-55R5V3",
+          "url": "https://eurosys.pt/produto/RAPTOR-55R5V3",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-55R5V3-1080.png",
+          "description": "RTX 5050 8GB  | RYZEN5 4500 | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "999,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-60R7V12",
+          "url": "https://eurosys.pt/produto/RAPTOR-60R7V12",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-60R7V12-1080.png",
+          "description": "RTX 5060 8GB | RYZEN7 5700X | 2 x RAM 8GB DDR4 3600 CL18 | SSD NVME 512GB 3400/2400 PCIE3",
+          "price": "1019,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-55R7V1A",
+          "url": "https://eurosys.pt/produto/RAPTOR-55R7V1A",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-55R7V1A-1080.png",
+          "description": "RTX 5050 8GB | RYZEN7 5700X | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 1TB 550/500",
+          "price": "1039,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-60I5V2",
+          "url": "https://eurosys.pt/produto/Raptor-60i5V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-60I5V2-1080.png",
+          "description": "RTX 5060 8GB | I5 14400F | 2 x RAM 8GB DDR4 3600 CL18 | SSD NVME 512GB 3400/2400 PCIE3",
+          "price": "1049,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-55R5V4",
+          "url": "https://eurosys.pt/produto/RAPTOR-55R5V4",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-55R5V4-1080.png",
+          "description": "RTX 5050 8GB | RYZEN5 8400F | RAM 16GB DDR5 6000 CL38 | SSD SATA 512GB 550/500",
+          "price": "1059,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-96R5V1",
+          "url": "https://eurosys.pt/produto/RAPTOR-96R5V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-96R5V1-1080.png",
+          "description": "RX 9060XT 16GB | RYZEN5 5500 | 2 x RAM 8GB DDR4 3200 CL22 | SSD SATA 512GB 550/500",
+          "price": "1069,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-60R7V1",
+          "url": "https://eurosys.pt/produto/RAPTOR-60R7V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-60R7V1-1080.png",
+          "description": "RTX 5060 8GB | RYZEN7 5800X  | 2 x RAM 8GB DDR4 3200 CL22 | SSD NVME 512GB 3400/2400 PCIE3",
+          "price": "1089,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-56R5V3",
+          "url": "https://eurosys.pt/produto/RAPTOR-56R5V3",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-56R5V3-1080.png",
+          "description": "RTX 5060 8GB | RYZEN5 8400F | RAM 16GB DDR5 6000 CL38 | SSD NVME 512GB 3400/2400 PCIE3",
+          "price": "1099,00 €",
+          "vat": true,
+          "stock": "Esgotado"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-56R5V4",
+          "url": "https://eurosys.pt/produto/RAPTOR-56R5V4",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-56R5V4-1080.png",
+          "description": "RTX 5060 TI 8GB | RYZEN5 5600X | 2 x RAM 8GB DDR4 3200 CL16 | SSD SATA 512GB 550/500",
+          "price": "1099,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-56R7V3",
+          "url": "https://eurosys.pt/produto/RAPTOR-56R7V3",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-56R7V3-1080.png",
+          "description": "RTX 5060 TI 8GB | RYZEN7 5700X | 2 x RAM 8GB DDR4 3200 CL22 | SSD NVME 512GB 3400/2400 PCIE3",
+          "price": "1099,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-56U5V2",
+          "url": "https://eurosys.pt/produto/RAPTOR-56U5V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-56U5V2-1080.png",
+          "description": "RTX 5060 8GB | ULTRA 5 230F | RAM 16GB DDR5 6000 CL38 | SSD NVME 512GB 3400/2400 PCIE3",
+          "price": "1149,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-55R5V5",
+          "url": "https://eurosys.pt/produto/RAPTOR-55R5V5",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-55R5V5-1080.png",
+          "description": "RTX 5050 8GB  | RYZEN5 8400F | RAM 16GB DDR5 6000 CL38 | SSD SATA 512GB 550/500",
+          "price": "1159,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-56U5V1",
+          "url": "https://eurosys.pt/produto/RAPTOR-56U5V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-56U5V1-1080.png",
+          "description": "RTX 5060 8GB | ULTRA 5 230F | RAM 16GB DDR5 6000 CL38 | SSD NVME 512GB 3400/2400 PCIE3",
+          "price": "1169,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-55R5V6",
+          "url": "https://eurosys.pt/produto/RAPTOR-55R5V6",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-55R5V6-1080.png",
+          "description": "RTX 5050 8GB | RYZEN5 9600X | RAM 16GB DDR5 6000 CL38 | SSD SATA 512GB 550/500",
+          "price": "1199,00 €",
+          "vat": true,
+          "stock": "Últimas 3 unidades"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-96R5V4",
+          "url": "https://eurosys.pt/produto/RAPTOR-96R5V4",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-96R5V4-1080.png",
+          "description": "RX 9060XT 16GB | RYZEN5 7500F | RAM 16GB DDR5 6000 CL38 | SSD SATA 512GB 550/500",
+          "price": "1229,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-96R5V2",
+          "url": "https://eurosys.pt/produto/RAPTOR-96R5V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-96R5V2-1080.png",
+          "description": "RX 9060XT 16GB | RYZEN5 8400F | RAM 16GB DDR5 6000 CL38 | SSD SATA 512GB 550/500",
+          "price": "1239,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-96R7V2",
+          "url": "https://eurosys.pt/produto/RAPTOR-96R7V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-96R7V2-1080.png",
+          "description": "RX 9060XT 16GB | RYZEN7 8700F | RAM 16GB DDR5 6000 CL38 | SSD SATA 512GB 550/500",
+          "price": "1259,00 €",
+          "vat": true,
+          "stock": "Em Stock · Envio em 24h"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-56R5V2",
+          "url": "https://eurosys.pt/produto/RAPTOR-56R5V2",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-56R5V2-1080.png",
+          "description": "RTX 5060 TI 16GB | RYZEN5 8400F | RAM 16GB DDR5 6000 CL38 | SSD NVME 512GB 3400/2400 PCIE3",
+          "price": "1499,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        },
+        {
+          "name": "Computer Gaming - RAPTOR-56I5V1",
+          "url": "https://eurosys.pt/produto/RAPTOR-56I5V1",
+          "image": "https://iapc.pt/webp/1920/4790/Banners-novosite/RAPTOR-56I5V1-1080.png",
+          "description": "RTX 5060 TI 16GB | I5 14400F | RAM 16GB DDR5 6000 CL38 | SSD NVME 512GB 3400/2400 PCIE3",
+          "price": "1549,00 €",
+          "vat": true,
+          "stock": "Últimas 2 unidades"
+        }
+      ],
+      "updatedAt": "2026-10-08T18:59:40.792Z",
+      "source": "https://eurosys.pt/catalogo?categoria=computers&brand=RAPTOR&skip_filter=brand",
+      "pages": 2
+    }
+  }
+}

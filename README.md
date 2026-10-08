@@ -24,7 +24,7 @@ Verificar sintaxe com `npm run check` se npm estiver disponível, ou executar `n
 - Destaque principal com faixa inferior separada dos botões.
 - Ambiente com texto e segunda máquina centrados, sem alternância Hardware.
 - Identidade, componentes interativos e detalhes visuais.
-- Catálogo no final. A secção genérica «O desempenho começa na configuração certa» foi retirada.
+- Catálogo no painel direito da secção de ambiente; em mobile, aparece abaixo do ambiente. A secção genérica «O desempenho começa na configuração certa» foi retirada.
 - Logótipos com flutuação suave. HYDRA tem dimensão reduzida e halo estático ajustado ao contorno; RAPTOR foi aumentado.
 - Pausa e preferência por movimento reduzido.
 
@@ -34,7 +34,9 @@ O servidor de pré-visualização lê o catálogo público Eurosys e segue a pag
 
 Este adaptador é exclusivo de desenvolvimento: na Eurosys, reutilizar a fonte e os componentes nativos do catálogo. O header e footer globais devem ser fornecidos pelo site anfitrião.
 
-GitHub Pages serve ficheiros estáticos e não executa `server.cjs`: o catálogo dinâmico precisa de uma fonte apropriada nesse alojamento. Esta pasta está preparada para versionamento, não implica publicação nem integração automática no CMS.
+GitHub Pages usa `catalog-pages.json`, uma cópia datada dos produtos reais das três famílias. A data aparece no painel: preços e stock não são atualizados automaticamente e devem ser confirmados na Eurosys. As imagens dos produtos são carregadas da origem pública. Esta cópia serve para avaliar o desenho, não substitui o catálogo nativo do CMS.
+
+Antes de publicar uma atualização, executar `node export-catalog.cjs` com acesso à Internet. O ficheiro só é substituído se as três consultas terminarem com sucesso. Em `127.0.0.1:4173`, a pré-visualização continua a usar a consulta dinâmica.
 
 ## Recursos
 
@@ -46,5 +48,5 @@ Fotografias e copy de apresentação são propostas comerciais; validar direitos
 
 ## GitHub
 
-Usar o conteúdo desta pasta como raiz do repositório. Não incluir as pastas de recursos originais ou arquivo de trabalho que estão fora dela. Não foi criado nem publicado um repositório remoto.
+Usar o conteúdo desta pasta como raiz do repositório `monicongocreativo-lab/pc-gaming`. Não incluir as pastas de recursos originais ou arquivo de trabalho que estão fora dela. Preservar as pastas ASTON, HYDRA e RAPTOR e todos os caminhos relativos: a página funciona também no subdiretório `/pc-gaming/`.
 

@@ -1,4 +1,5 @@
-// Integração pendente: indicar um endpoint autorizado que devolva TODOS os SKUs
-// da família. O serviço deve tratar a paginação na origem e devolver um array.
-// Contrato: [{name, url, image?, description?}]. Não colocar credenciais aqui.
-window.EUROSYS_CATALOG = { endpoint: '/api/catalog' };
+// Local: consulta atual. GitHub Pages: cópia datada para avaliação do desenho.
+const localPreview = ['127.0.0.1', 'localhost', '[::1]'].includes(location.hostname) && location.port === '4173';
+window.EUROSYS_CATALOG = localPreview
+  ? { endpoint: '/api/catalog' }
+  : { endpoint: new URL('catalog-pages.json', document.currentScript.src).href, snapshot: true };

@@ -89,7 +89,9 @@ async function loadProducts() {
     root.querySelector('#catalog-status').hidden=true;
     const response=await fetch(url, {signal:AbortSignal.timeout(60000)});
     if(!response.ok) throw new Error('Catálogo indisponível');
-    const result=await response.json();const products=Array.isArray(result)?result:result.products;if(!Array.isArray(products)||!products.length) throw new Error('Formato inválido');
+    const payload=await response.json();
+    const result=window.EUROSYS_CATALOG?.snapshot ? payload.families?.[family] : payload;
+    const products=Array.isArray(result)?result:result?.products;if(!Array.isArray(products)||!products.length) throw new Error('Formato inválido');
     let count=0;
     products.forEach(item=>{
       const href=safeEurosysUrl(item.url);if(!href||typeof item.name!=='string')return;
@@ -106,7 +108,11 @@ async function loadProducts() {
     });
     if (!count) throw new Error('Sem produtos válidos');
     if(count)root.querySelector('#catalog-status').hidden=true;
-    root.querySelector('.catalog-intro').textContent=`${count} máquinas ${family} · Preços e disponibilidade consultados na Eurosys. Confirma as condições na ficha de produto.`;
+    const datedCopy=window.EUROSYS_CATALOG?.snapshot;
+    const date=datedCopy ? new Intl.DateTimeFormat('pt-PT',{day:'2-digit',month:'2-digit',year:'numeric',timeZone:'Europe/Lisbon'}).format(new Date(result.updatedAt)) : '';
+    root.querySelector('.catalog-intro').textContent=datedCopy
+      ? `${count} máquinas ${family} · Pré-visualização com dados de ${date}. Preços e stock podem mudar. Confirma as condições na Eurosys.`
+      : `${count} máquinas ${family} · Preços e disponibilidade consultados na Eurosys. Confirma as condições na ficha de produto.`;
   } catch(error) { root.querySelector('#catalog-status').hidden=false;root.querySelector('.catalog-intro').textContent='Não foi possível carregar as máquinas neste momento. Consulta a gama no catálogo Eurosys.';console.warn('Integração do catálogo:',error.message); }
 }
 loadProducts();

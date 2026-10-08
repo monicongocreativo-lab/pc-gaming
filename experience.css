@@ -83,13 +83,13 @@
 @media(max-width:850px){.eurosys-gaming[data-family="HYDRA"] .brand-mark{width:min(270px,100%)}}
 
 /* Ambiente e catálogo da família no mesmo bloco. */
-.eurosys-gaming .setup-showcase{display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);align-items:start;border-top:1px solid var(--line)}
+.eurosys-gaming .setup-showcase{display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);align-items:stretch;border-top:1px solid var(--line)}
 .eurosys-gaming .setup-showcase .setup-scene{position:sticky;top:calc(var(--eurosys-header-offset,0px) + 72px);min-height:0;border-top:0;padding:38px 28px 24px;gap:12px}
 .eurosys-gaming .setup-showcase .setup-text h2{font-size:clamp(38px,3.3vw,60px)}
 .eurosys-gaming .setup-showcase .setup-text>p:not(.eyebrow){font-size:13px;line-height:1.7}
 .eurosys-gaming .setup-showcase .setup-pc{height:clamp(260px,32vw,440px);width:100%;max-width:520px}
 .eurosys-gaming .setup-showcase .scene-note{position:relative;inset:auto;display:block;text-align:center;margin:8px 0 0}
-.eurosys-gaming .setup-catalog{padding:32px 24px;border-top:0;border-left:1px solid var(--line);background:#0c1018;min-width:0;max-height:min(1000px,calc(100svh - 90px));overflow-y:auto;overscroll-behavior-y:auto;scrollbar-color:var(--accent) #151c27;scrollbar-width:thin}
+.eurosys-gaming .setup-catalog{padding:32px 24px;border-top:0;border-left:1px solid var(--line);background:#0c1018;min-width:0;min-height:0;contain:size;overflow-y:auto;overscroll-behavior-y:auto;scrollbar-color:var(--accent) #151c27;scrollbar-width:thin}
 .eurosys-gaming .setup-catalog .catalog-heading{align-items:flex-start;flex-direction:column;gap:4px}
 .eurosys-gaming .setup-catalog h2{font-size:clamp(34px,3vw,50px);margin:12px 0}
 .eurosys-gaming .setup-catalog .catalog-intro{font-size:12px;line-height:1.7;margin:20px 0}
@@ -102,6 +102,6 @@
 .eurosys-gaming .setup-catalog .product-details{margin-top:auto}
 .eurosys-gaming .setup-catalog .product-price{font-size:20px}
 .eurosys-gaming .setup-catalog .catalog-status{padding:22px;gap:15px}
-@media(min-width:1600px){.eurosys-gaming .setup-catalog .product-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
-@media(max-width:1000px){.eurosys-gaming .setup-showcase{grid-template-columns:1fr}.eurosys-gaming .setup-showcase .setup-scene{position:relative;top:auto}.eurosys-gaming .setup-catalog{max-height:none;overflow:visible;border-left:0;border-top:1px solid var(--line);padding:35px 6vw}.eurosys-gaming .setup-showcase .setup-pc{height:340px}.eurosys-gaming .setup-showcase .setup-text h2{font-size:48px}}
+@media(min-width:1200px){.eurosys-gaming .setup-catalog .product-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.eurosys-gaming .setup-catalog .product{padding:12px}}
+@media(max-width:1000px){.eurosys-gaming .setup-showcase{grid-template-columns:1fr}.eurosys-gaming .setup-showcase .setup-scene{position:relative;top:auto}.eurosys-gaming .setup-catalog{contain:none;overflow:visible;border-left:0;border-top:1px solid var(--line);padding:35px 6vw}.eurosys-gaming .setup-showcase .setup-pc{height:340px}.eurosys-gaming .setup-showcase .setup-text h2{font-size:48px}}
 @media(max-width:480px){.eurosys-gaming .setup-catalog .product-grid{grid-template-columns:1fr}.eurosys-gaming .setup-catalog .product img{height:230px}.eurosys-gaming .setup-showcase .setup-pc{height:300px}.eurosys-gaming .setup-showcase .setup-text h2{font-size:42px}}

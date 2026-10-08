@@ -1,0 +1,11 @@
+{
+  "name": "eurosys-gaming-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Desenho aprovado das famílias gaming ASTON, HYDRA e RAPTOR",
+  "scripts": {
+    "start": "node server.cjs",
+    "check": "node --check app.js && node --check server.cjs && node --check catalog-source.cjs && node --check catalog-config.js"
+  },
+  "engines": { "node": ">=18" }
+}
